@@ -1,14 +1,14 @@
 @import "./utils/variables";
 @import "./utils/mixins";
 @import "./components/headers";
-@import "./components/section1.scss";
-@import "./components/section2.scss";
-@import "./components/section3.scss";
-@import "./components/section4.scss";
-@import "./components/section5.scss";
-@import "./components/footer.scss";
-@import "./components/portfolioFilter.scss";
-@import "./components/portfolioCards.scss";
+@import "./components/section1";
+@import "./components/section2";
+@import "./components/section3";
+@import "./components/section4";
+@import "./components/section5";
+@import "./components/footer";
+@import "./components/portfolioFilter";
+@import "./components/portfolioCards";
 
 * {
   padding: 0;
